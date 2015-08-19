@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11257" started-at="2014-08-15T21:32:23Z" finished-at="2014-08-15T21:32:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11257" started-at="2014-08-15T21:32:23Z" finished-at="2014-08-15T21:32:34Z">
+      <class name="testscripts.scenario1.TC2">
+        <test-method status="PASS" signature="suiteSetup(org.testng.ITestContext)[pri:0, instance:testscripts.scenario1.TC2@1ed40e0]" name="suiteSetup" is-config="true" duration-ms="809" started-at="2014-08-15T17:32:22Z" finished-at="2014-08-15T17:32:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1eb439a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="testMethodSetup()[pri:0, instance:testscripts.scenario1.TC2@1ed40e0]" name="testMethodSetup" is-config="true" duration-ms="2" started-at="2014-08-15T17:32:23Z" finished-at="2014-08-15T17:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodSetup -->
+        <test-method status="PASS" signature="runTC2()[pri:0, instance:testscripts.scenario1.TC2@1ed40e0]" name="runTC2" duration-ms="11186" started-at="2014-08-15T17:32:23Z" finished-at="2014-08-15T17:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTC2 -->
+        <test-method status="PASS" signature="testMethodTearDown()[pri:0, instance:testscripts.scenario1.TC2@1ed40e0]" name="testMethodTearDown" is-config="true" duration-ms="59" started-at="2014-08-15T17:32:34Z" finished-at="2014-08-15T17:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTearDown -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:testscripts.scenario1.TC2@1ed40e0]" name="suiteTearDown" is-config="true" duration-ms="411" started-at="2014-08-15T17:32:34Z" finished-at="2014-08-15T17:32:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- testscripts.scenario1.TC2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

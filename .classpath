@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Workspace/CRAFTProject/src/supportlibraries/Framework_Core.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/CRAFTProject/src/supportlibraries/Framework_DataTable.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/CRAFTProject/src/supportlibraries/Framework_Reporting.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/CRAFTProject/src/supportlibraries/Framework_Selenium.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/CRAFTProject/src/supportlibraries/Framework_Utilities.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-3.8-beta1-20110307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-3.8-beta4-20110826.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-ooxml-schemas-3.7-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-server-standalone-2.47.1.jar" sourcepath="D:/Selenium/selenium-master.zip"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-support-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
